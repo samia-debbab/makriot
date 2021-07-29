@@ -1,4 +1,4 @@
-int vari= -1;
+int vari= 1;
 char msg[15]= "allumer la led";
 
 void setup() {
